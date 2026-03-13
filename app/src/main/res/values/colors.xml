@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Professional FinTech Palette -->
+    <color name="brand_primary">#6200EE</color>
+    <color name="brand_primary_variant">#3700B3</color>
+    <color name="brand_secondary">#03DAC6</color>
+    <color name="brand_background">#F5F7FA</color>
+    <color name="brand_surface">#FFFFFF</color>
+
+    <color name="text_primary">#1A1C1E</color>
+    <color name="text_secondary">#6C727A</color>
+    <color name="text_hint">#A0A5AB</color>
+
+    <color name="status_success">#4CAF50</color>
+    <color name="status_error">#E53935</color>
+    <color name="status_warning">#FFB300</color>
+
+    <!-- Legacy / Compatibility -->
+    <color name="primaryColor">#6200EE</color>
+    <color name="primaryLightColor">#BB86FC</color>
+    <color name="primaryDarkColor">#3700B3</color>
+    <color name="secondaryColor">#03DAC6</color>
+    <color name="backgroundColor">#F5F7FA</color>
+</resources>

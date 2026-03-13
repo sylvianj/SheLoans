@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "920401194184",
+    "project_id": "sheloan-b04a8",
+    "storage_bucket": "sheloan-b04a8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:920401194184:android:68658fb6b83f0f044109fd",
+        "android_client_info": {
+          "package_name": "com.example.sheloans"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDj4Uz9CoU4MzN_QkHTbu6gJmaVDHKAMk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
