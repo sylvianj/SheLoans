@@ -39,7 +39,8 @@ class DashboardActivity : AppCompatActivity() {
     private lateinit var knowledgeCard: MaterialCardView
     private lateinit var supportCard: MaterialCardView
 
-    private val groqApiKey = "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"
+    // Retrieve API key from strings.xml
+    private val groqApiKey by lazy { getString(R.string.groq_api_key) }
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
