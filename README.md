@@ -37,7 +37,7 @@ The Protection & Support page helps users report a financial issue and find rele
 
 SheLoans can request permission to send notifications, so users can receive relevant app updates. The screenshot shows the Android system permission prompt.
 
-<img src="she-4.jpg.png" alt="Android notification permission prompt for SheLoans" width="300">
+<img src="she-4.jpg.png" alt="Android notification permission prompt for SheLoans" width="200">
 
 ## Technologies Used
 
