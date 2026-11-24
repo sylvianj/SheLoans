@@ -19,19 +19,19 @@ The screenshots below give a quick tour of the SheLoans Android app and its key 
 
 The dashboard gives members an at-a-glance view of their financial health score, savings, and active loans. It also provides shortcuts to Savings, Loans, Chama groups, the Financial Academy, and consumer support.
 
-<img src="she-1.jpg.png" alt="SheLoans home dashboard" width="300">
+<img src="she-1.jpg.png" alt="SheLoans home dashboard" width="200">
 
 ### Financial Academy
 
 The Financial Academy includes an AI financial advisor that users can ask about savings, interest rates, and growing their Chama.
 
-<img src="she-2.jpg.png" alt="SheLoans Financial Academy AI advisor" width="300">
+<img src="she-2.jpg.png" alt="SheLoans Financial Academy AI advisor" width="200">
 
 ### Protection and Support
 
 The Protection & Support page helps users report a financial issue and find relevant regulatory and consumer-support contacts, including the Central Bank of Kenya and the Consumer Federation of Kenya.
 
-<img src="she-3.jpg.png" alt="SheLoans Protection and Support page" width="300">
+<img src="she-3.jpg.png" alt="SheLoans Protection and Support page" width="200">
 
 ### Notification permission
 
