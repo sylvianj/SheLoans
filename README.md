@@ -11,6 +11,36 @@ SheLoans is an Android application designed to promote financial inclusion for w
 - **Credit Scoring**: Improve your internal credit score by consistently saving and meeting financial goals.
 - **AI-Powered Assistance**: Integrated with Groq/Llama for financial advice and support.
 
+## App Screenshots
+
+The screenshots below give a quick tour of the SheLoans Android app and its key experiences.
+
+### Home dashboard
+
+The dashboard gives members an at-a-glance view of their financial health score, savings, and active loans. It also provides shortcuts to Savings, Loans, Chama groups, the Financial Academy, and consumer support.
+
+![SheLoans home dashboard](screenshots/home-dashboard.png)
+
+### Financial Academy
+
+The Financial Academy includes an AI financial advisor that users can ask about savings, interest rates, and growing their Chama.
+
+![SheLoans Financial Academy AI advisor](screenshots/financial-academy.png)
+
+### Protection and Support
+
+The Protection & Support page helps users report a financial issue and find relevant regulatory and consumer-support contacts, including the Central Bank of Kenya and the Consumer Federation of Kenya.
+
+![SheLoans Protection and Support page](screenshots/protection-support.png)
+
+### Notification permission
+
+SheLoans can request permission to send notifications, so users can receive relevant app updates. The screenshot shows the Android system permission prompt.
+
+![Android notification permission prompt for SheLoans](screenshots/notification-permission.png)
+
+> To display these images on GitHub, add the corresponding screenshot files to the `screenshots/` directory using the filenames shown above.
+
 ## Technologies Used
 
 - **Kotlin**: Primary programming language.
