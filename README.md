@@ -39,7 +39,7 @@ SheLoans can request permission to send notifications, so users can receive rele
 
 ![Android notification permission prompt for SheLoans](screenshots/notification-permission.png)
 
-> To display these images on GitHub, add the corresponding screenshot files to the `screenshots/` directory using the filenames shown above.
+
 
 ## Technologies Used
 
